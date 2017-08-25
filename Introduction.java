@@ -14,7 +14,7 @@ public class Introduction
         System.out.println("I was born in Mauldin, SC.");
         System.out.println("I go to J.L. Mann High School.");
         System.out.println("My brother is 14 and goes to this school.");
-        System.out.println("I like to sleep.");
+        System.out.println("I like to sleep and im dead on the inside.");
         
         //now store some numbers
         int year = 2017;
